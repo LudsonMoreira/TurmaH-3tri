@@ -22,7 +22,7 @@ nav h1 {
     text-align: center;
     color: #ffffff;
     font-weight: bolder;
-    position: a;
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,4 +33,11 @@ header p {
     margin-top: 60px;
     color: #ffffff;
     font-size: 36px;
+}
+
+header span{
+    height: 100%;
+    width: 70%;
+    position: relative;
+    left: 0;
 }
