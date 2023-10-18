@@ -33,5 +33,6 @@ header p {
     color: #ffffff;
     font-size: 24px;
     text-align: justify;
-    top: 60px;
+    top: 50px;
+    margin: 10px;
 }
