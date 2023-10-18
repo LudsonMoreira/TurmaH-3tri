@@ -22,7 +22,7 @@ nav h1 {
     text-align: center;
     color: #ffffff;
     font-weight: bolder;
-    position: relative;
+    position: fixed;
     display: flex;
     justify-content: center;
     align-items: center;
