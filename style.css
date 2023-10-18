@@ -30,4 +30,6 @@ nav h1{
 header p{
     position: relative;
     margin-top: 60px;
+    color: #ffffff;
+    font-size: 36px;
 }
