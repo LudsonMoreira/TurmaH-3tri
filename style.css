@@ -1,8 +1,3 @@
-@font-face {
-    font-family: "designer";
-    src: url("designer.otf") format("otf");
-}
-
 body {
     margin: 0;
     padding: 0;
@@ -29,7 +24,7 @@ nav {
 
 nav h1 {
     text-align: center;
-    font-family: "designer", sans-serif;
+    font-family: Arial, sans-serif;
     color: #ffffff;
     font-weight: bolder;
     position: relative;
