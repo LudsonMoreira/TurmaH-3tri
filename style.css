@@ -22,9 +22,12 @@ nav h1{
     text-align: center;
     color: #ffffff;
     font-weight: bolder;
+    display: flex;
+    position: relative;
+    justify-content: center;
 }
 
-nav p{
+header p{
     position: relative;
     margin-top: 60px;
 }
