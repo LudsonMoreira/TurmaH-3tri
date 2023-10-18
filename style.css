@@ -29,7 +29,7 @@ nav h1 {
 }
 
 header p {
-    position: absolute;
+    position: relative;
     color: #ffffff;
     font-size: 36px;
     text-align: justify;
@@ -40,7 +40,6 @@ header p {
 header #paragrafo1 {
     top: 60px;
     left: 0;
-    text-align: justify;
 }
 
 header #paragrafo2 {
