@@ -29,10 +29,8 @@ nav h1 {
 }
 
 header p {
-    position: absolute;
+    position: relative;
     color: #ffffff;
     font-size: 24px;
     text-align: justify;
-    height: 100%;
-    width: 70%;
 }
