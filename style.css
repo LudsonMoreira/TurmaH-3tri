@@ -22,9 +22,10 @@ nav h1{
     text-align: center;
     color: #ffffff;
     font-weight: bolder;
-    display: flex;
     position: relative;
+    display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 header p{
