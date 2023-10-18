@@ -18,17 +18,17 @@ nav {
     background-color: #0e0e66;
 }
 
-nav h1{
+nav h1 {
     text-align: center;
     color: #ffffff;
     font-weight: bolder;
     position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
-header p{
+header p {
     position: relative;
     margin-top: 60px;
     color: #ffffff;
