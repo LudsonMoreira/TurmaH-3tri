@@ -34,17 +34,5 @@ header p {
     font-size: 24px;
     text-align: justify;
     height: 100%;
-    width: 40%;
-}
-
-header #paragrafo1 {
-    position: relative;
-    top: 60px;
-    left: 0;
-}
-
-header #paragrafo2 {
-    position: relative;
-    bottom: 0;
-    right: 0;
+    width: 70%;
 }
