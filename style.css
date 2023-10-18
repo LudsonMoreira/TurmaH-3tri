@@ -29,16 +29,21 @@ nav h1 {
 }
 
 header p {
-    position: relative;
-    margin-top: 60px;
+    position: absolute;
     color: #ffffff;
-    font-size: 24px;
+    font-size: 36px;
+    text-align: justify;
+    height: 100%;
+    width: 40%;
 }
 
-header span {
-    height: 100%;
-    width: 60%;
-    position: absolute;
+header #paragrafo1 {
+    top: 60px;
     left: 0;
     text-align: justify;
+}
+
+header #paragrafo2 {
+    bottom: 0;
+    right: 0;
 }
