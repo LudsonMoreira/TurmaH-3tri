@@ -24,6 +24,7 @@ nav h1 {
     font-weight: bolder;
     position: relative;
     display: flex;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
 }
