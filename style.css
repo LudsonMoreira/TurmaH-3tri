@@ -38,11 +38,13 @@ header p {
 }
 
 header #paragrafo1 {
+    position: relative;
     top: 60px;
     left: 0;
 }
 
 header #paragrafo2 {
+    position: relative;
     bottom: 0;
     right: 0;
 }
