@@ -40,8 +40,8 @@ header p {
 }
 
 header img {
-    width: 150px;
-    height: 150px;
+    width: 400px;
+    height: 400px;
     position: absolute;
     float: left;
     border-radius: 50%;
