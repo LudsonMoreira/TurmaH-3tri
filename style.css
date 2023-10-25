@@ -39,11 +39,12 @@ header p {
     margin: 10px;
 }
 
-header img{
-    width: 50%;
-    height: 25%;
-    top: 50%;
+header img {
+    width: 150px;
+    height: 150px;
     position: absolute;
     float: left;
     border-radius: 50%;
+    shape-outside: circle();
+    margin: 10px 20px;
 }
