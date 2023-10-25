@@ -38,3 +38,11 @@ header p {
     top: 50px;
     margin: 10px;
 }
+
+header img{
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    float: left;
+    border-radius: 50%;
+}
