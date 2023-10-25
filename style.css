@@ -41,7 +41,8 @@ header p {
 
 header img{
     width: 50%;
-    height: 50%;
+    height: 25%;
+    top: 50%;
     position: absolute;
     float: left;
     border-radius: 50%;
